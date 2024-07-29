@@ -15,4 +15,12 @@
 
     - Straight Up
     - Horses in the Stable 
-    
+
+
+ **Teddy Pendergrass**
+
+  ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Teddy_Pendergrass_(1979).jpg/440px-Teddy_Pendergrass_(1979).jpg)
+
+  - I Miss You
+  - Love TKO
+
