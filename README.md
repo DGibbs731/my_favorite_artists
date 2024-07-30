@@ -24,7 +24,7 @@
   <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Teddy_Pendergrass_(1979).jpg/440px-Teddy_Pendergrass_(1979).jpg">
 
  <li> Miss You </li> 
- <li> Love TKO 
+ <li> Love TKO </li>
  
   
 
